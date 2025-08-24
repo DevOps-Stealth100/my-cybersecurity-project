@@ -137,7 +137,10 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+ HEAD
 Git Token.txt
 Git Token.txt
 Git Token.txt
 Git Token.txt
+
+2c6fb9df21d507bdb72cee3849b415437fa75fd1
